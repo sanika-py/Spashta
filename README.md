@@ -1,7 +1,5 @@
 # Spashta
 
-# Spashta
-
 **Spashta** ("clear" / "explicit" in Hindi) turns opaque model decisions — loan
 approvals, KYC/onboarding checks, fraud flags, insurance claims — into short,
 plain-language explanations in the customer's own language, checked against
